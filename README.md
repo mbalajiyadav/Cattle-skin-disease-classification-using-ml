@@ -1,1 +1,1 @@
-# Cattle-skin-disease-classification-using-ml
+# human_disease_prediction_system
