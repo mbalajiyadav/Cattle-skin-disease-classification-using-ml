@@ -1,1 +1,1 @@
-# human_disease_prediction_system
+# Cattle_disease_prediction_system
